@@ -1,0 +1,13 @@
+{
+    "navbar":{
+        "language" : "العربية"
+    },
+    "search":{
+        "placeholder": "Job Title",
+        "button":"Search"
+
+    },
+    "jobItem":{
+        "view": "View"
+    }
+}
