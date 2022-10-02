@@ -1,0 +1,12 @@
+{
+    "navbar":{
+        "language" : "English"
+    },
+    "search":{
+        "placeholder": "ابحث هنا ",
+        "button":"ابحث"
+    },
+    "jobItem":{
+        "view": "التفاصيل"
+    }
+}
