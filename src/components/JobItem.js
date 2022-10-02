@@ -73,7 +73,6 @@ function JobItem({ job }) {
             {skills.join(",")}
           </Typography>
         </CardContent>
-        {console.log("hello from item ", job)}
         <CardActions>
           <Link to={`/job-datails/${job.uri}`}>
             <Button size="small" variant="outlined" sx={{ marginLeft: "auto" }}>

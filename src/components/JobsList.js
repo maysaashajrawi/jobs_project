@@ -7,7 +7,6 @@ import Container from "@mui/material/Container";
 
 function JobsList() {
   const { jobs, isLoading, error } = useContext(JobContext);
-  console.log("hello from jobs", jobs);
   const { t, i18n } = useTranslation();
   return (
     <Container maxWidth="md" sx={{ marginTop: 15 }}>
